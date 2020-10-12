@@ -23,7 +23,6 @@ public class HomeInventory extends JFrame {
     JButton printButton = new JButton(new ImageIcon("print.gif")); 
     JButton exitButton = new JButton();
 
-    // Frame 
     JLabel itemLabel = new JLabel(); 
     JTextField itemTextField = new JTextField(); 
     JLabel locationLabel = new JLabel(); 
